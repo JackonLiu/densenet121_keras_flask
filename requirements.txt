@@ -1,0 +1,8 @@
+Flask == 0.12.2
+gevent
+gunicorn
+keras
+numpy
+h5py
+pillow
+G:\programmer\Python_file\tensorflow-1.2.0rc2-cp36-cp36m-win_amd64.whl
